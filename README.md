@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi there! I'm Luca.</h1>
 
-🔭 I’m currently working on ...
+- 🔭 I’m currently working on cool projects
+- 🌱 I’m currently learning **JavaScript and Webdevelopment**
 
+<img align="center" alt="Luca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&hide_border=true" />
 
 <!--
 **LucaGerlich/LucaGerlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
