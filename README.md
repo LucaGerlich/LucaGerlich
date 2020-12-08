@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript and Webdevelopment and sometimes Python**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html&line_height=40)
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&count_private=true&line_height=40)
 
 <!--
