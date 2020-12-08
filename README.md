@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there! I'm Luca.</h1>
 
 🔭 I’m currently working on ...
 
