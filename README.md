@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **JavaScript and Webdevelopment and sometimes Python**
 - 📫 How to reach me: Luca@lucagerlich.de
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html&line_height=40)
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html&line_height=40)
 
 <!--
 **LucaGerlich/LucaGerlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
