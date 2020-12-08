@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **JavaScript and Webdevelopment and sometimes Python**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html)
+![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&count_private=true&line_height=40)
 <img align="center" alt="Luca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&hide_border=true" />
 
 <!--
