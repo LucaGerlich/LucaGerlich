@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Luca.</h1>
+<h1 align="center">[website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there! I'm Luca.</h1>
 
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript and Webdevelopment and sometimes Python**
