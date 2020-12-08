@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi there! I'm Luca.</h1>
 
 - 🔭 I’m currently working on cool projects
-- 🌱 I’m currently learning **JavaScript and Webdevelopment**
+- 🌱 I’m currently learning **JavaScript and Webdevelopment and sometimes Python**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html)
 <img align="center" alt="Luca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&hide_border=true" />
 
 <!--
