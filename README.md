@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I love to listen to music
 - 📫 How to reach me: Luca@lucagerlich.de
 
+<!--
 ### Languages and Tools that i ♥️:
 
 [<code>
@@ -76,7 +77,7 @@
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGerlich&hide=html&line_height=40)
 
-<!--
+
 **LucaGerlich/LucaGerlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
