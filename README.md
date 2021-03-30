@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript, Webdevelopment and sometimes Python**
 - 🥅 2021 Goals: finish my projects😇
-- ⚡ Fun fact: I love to listen to music
 - 📫 How to reach me: Luca@lucagerlich.de
 
 <!--
