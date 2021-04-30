@@ -1,4 +1,5 @@
-<h1 <!--align="center"><img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> --> Hi there! I'm Luca.</h1>
+<!--<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> --> 
+<h1> Hi there! I'm Luca.</h1>
 
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript, Webdevelopment and sometimes Python**
