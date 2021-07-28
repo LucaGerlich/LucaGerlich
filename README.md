@@ -2,7 +2,7 @@
 <h1> Hi there! I'm Luca.</h1>
 
 - 🔭 I’m currently working on cool projects
-- 🌱 I’m currently learning **JavaScript, Webdevelopment and sometimes Python**
+- 🌱 I’m currently learning **JavaScript and Webdevelopment**
 - 🥅 2021 Goals: finish my projects😇
 - 📫 How to reach me: Luca@lucagerlich.de
 
