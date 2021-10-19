@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript and Webdevelopment**
 - 🥅 2021 Goals: finish my projects😇
-- 📫 How to reach me: Luca@lucagerlich.de
+- 📫 How to reach me: Lucagerlich@outlook.de
 
 <!--
 ### Languages and Tools that i ♥️:
