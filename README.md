@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning **JavaScript and Webdevelopment**
-- 🥅 2021 Goals: finish my projects😇
+- 🥅 2022 Goals: finish my projects😇
 - 📫 How to reach me: Lucagerlich@outlook.de
 
 <!--
