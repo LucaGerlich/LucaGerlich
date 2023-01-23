@@ -1,10 +1,5 @@
 <!--<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> --> 
-<h1> Hi there! I'm Luca.</h1>
-
-- 🔭 I’m currently working on cool projects
-- 🌱 I’m currently learning **JavaScript and Webdevelopment**
-- 🥅 2022 Goals: finish my projects😇
-- 📫 How to reach me: Lucagerlich@outlook.de
+<h1> Hi there!</h1>
 
 <!--
 ### Languages and Tools that i ♥️:
