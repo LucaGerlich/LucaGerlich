@@ -1,7 +1,6 @@
 <!--<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> --> 
 <h1> Hi there!</h1>
-[![Skills:](https://skillicons.dev/icons?i=bash,html,css,js,ts,figma,react,nextjs,tailwind,postgres,kotlin,py,vim,vscode,npm,github,gitlab,git,linux,md&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Skills:](https://skillicons.dev/icons?i=bash,html,css,js,ts,figma,react,nextjs,tailwind,postgres,kotlin,py,vim,vscode,npm,github,gitlab,git,linux,md)](https://skillicons.dev)
 
 <!--
 ### Languages and Tools that i ♥️:
