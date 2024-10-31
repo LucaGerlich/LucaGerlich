@@ -70,6 +70,9 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+[<code>
+<img alt="rustlang" width="26px" src="https://img.icons8.com/color/96/000000/rustlang.png">
+</code>](https://www.kernel.org/)
 <br />
 
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaGerlich&show_icons=true&count_private=true&line_height=40)
